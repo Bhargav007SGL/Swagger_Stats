@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "swagger-stats": "^0.99.5"
+  }
+}
